@@ -1,6 +1,6 @@
 # TI_Tech
-Programs which work on the TI-84's operating system.
-*Games will work on TI-84 CE, but potentially not other TI brand calculators.* 
+Programs which work on the TI-84's operating system.  
+*Games will work on TI-84 CE. May not work on other TI brand calculators.*   
 
 ## Games
 ### Casino
@@ -18,8 +18,11 @@ A great roguelike RPG. Adventure across 9 worlds, battling monsters and getting 
 
 ## Utilities
 ### Polydex
-An easy-lookup tool for AP Chemistry polyatomic ions. Sorted by element; contains names, formulae, and charges.
+An easy-lookup tool for AP Chemistry polyatomic ions. Sorted by element; contains names, formulae, and charges.  
+DISCLAIMER: Polydex is to be used as a study aid. Polydex is not intended for use on assesments. The creator of this program is not responsible for breaches of academic integrity. Use Polydex with your teacher's permission only.
 
 ## Download Instructions
-First, [download the TI-Connect program](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw). Open the wanted programs there and connect your calculator to your computer. Turn on the calculator and then send all the files to your calculator. 
+First, [download the TI-Connect program](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw).  
+Open the wanted programs there and connect your calculator to your computer.  
+Turn on the calculator and then send all the files to your calculator using the send button.  
 *If you reset your RAM, you will lose any non-archived programs and will need to redownload them.*
