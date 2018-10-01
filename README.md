@@ -19,7 +19,6 @@ A great roguelike RPG. Adventure across 9 worlds, battling monsters and getting 
 ## Utilities
 ### Polydex
 An easy-lookup tool for AP Chemistry polyatomic ions. Sorted by element; contains names, formulae, and charges.  
-DISCLAIMER: Polydex is to be used as a study aid. Polydex is not intended for use on assesments. The creator of this program is not responsible for breaches of academic integrity. Use Polydex with your teacher's permission only.
 
 ## Download Instructions
 First, [download the TI-Connect program](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw).  
